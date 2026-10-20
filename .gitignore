@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Datasets (MNIST is downloaded automatically via torchvision)
+data/
+
+# Model checkpoints (uncomment to exclude weights from version control)
+# *.pth
+# *.pt
+# *.ckpt
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log

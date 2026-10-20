@@ -1,0 +1,10 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Numerical Computing & Visualization
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Progress Tracking & Utilities
+tqdm>=4.65.0
